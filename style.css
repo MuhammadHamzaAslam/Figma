@@ -1,0 +1,218 @@
+@font-face {
+    font-family: Bold;
+    src: url(Fonts/Bebas_Neue/BebasNeue-Regular.ttf);
+ }
+*{
+    margin: 0px;
+    padding: 0px;
+}  
+#maindiv{
+    background-color: darkblue;
+    width: 100%;
+    height: 100%;
+}
+div{
+    display: inline-block;
+    margin-right:  152px;
+}
+.nav1{
+    color: orange;
+    font-weight: bold;
+    font-size: 24pt;
+    display: inline;
+    margin-left: 100px;
+    padding: 25px;
+  
+}
+
+.nav{
+    color: white;
+    display: inline;
+    margin-left: 10px;
+    padding: 25px;
+  
+}
+.nav2{
+    color: white;
+    display: inline;
+    margin-left: 70px;
+    padding: 20px;
+  
+}
+.nav3{
+    color: white;
+    display: inline;
+    margin-right: -90px;
+    padding: 20px;
+    width: 30px;
+    height: 30px;
+   
+  
+}
+button.arrow{
+    background-color: lightblue;
+    border: 1px solid lightblue;
+    height: 40px;
+    width: 90px;
+    border-radius: 30px;
+}
+p button img{
+    height: 15px;
+    width: 18px;
+}
+.Welcome{
+    color: lightblue;
+    font-family: "Bold";
+}
+.internet{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.para1{
+    color: white;
+} 
+
+button.now{
+    background-color: #23A6F0;
+    color: white;
+    height: 40px;
+    border:2px solid lightblue;
+    font-weight: bold;
+}
+button.more{
+    border:2px solid lightblue;
+    color: lightblue;
+    background-color: darkblue;
+    height: 40px;
+}
+.abc{
+    height: 350px;
+    width: 300px;
+    background-color: white;
+    margin: 10px;
+    margin-left: 70px;
+}
+.sub{
+    height: 60px;
+    width: 60px;
+    background-color: #ec4d4d9d;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.happy{
+    height: 50px;
+    width:50px ;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.h3,.p1{
+    margin-left: 10px;
+}
+.extra{
+
+    width: 100%;
+}
+.maindiv2{
+    background-color: white;
+    height: 100px;
+    width: 100%;
+}
+
+.dash{
+    letter-spacing: -3px;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+.Packages{
+    margin-left: 90px;
+}
+.rtc1{
+    margin-left: 90px;
+}
+.Learn{
+    margin-left: 90px;
+    border: none;
+    color: blue;
+
+}
+.cartoon{
+    height: 300px;
+    width: 300px;
+    margin-left: 300px;
+    position: relative;
+}
+.chart{
+    height: 100px;
+    width: 150px;
+    position: absolute;
+    right: 450px ;
+}
+.chart2{
+    height: 100px;
+    width: 150px;
+    position: absolute;
+    right: 450px ;
+    top: 1150px;
+}
+.maindiv3{
+    background-color: white;
+    height: 100px;
+    width: 100%;
+}
+.advice{
+    margin-left: 90px;
+    border: none;
+    color: blue;
+}
+.Online{
+    margin-left: 90px;
+}
+.Online2{
+    margin-left: 90px;
+}
+.teacher{
+    margin-left: 90px;
+    height: 200px;
+    width: 200px;
+    position: relative;
+}
+.Sale{
+    background-color: red;
+    position: absolute;
+    width:  50px;
+    text-align: center;
+    top: 1550px;
+    left: 90px;
+}
+.heart{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    top: 1700px;
+    left: 100px;
+}
+.cart{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    top: 1700px;
+    left: 130px;
+}
+.eye{
+    height: 20px;
+    width: 50px;
+    position: absolute;
+    top: 1700px;
+    left: 160px;
+    
+    
+}
+.English{
+    margin-left: 90px;
+    border: none;
+    color: blue;
+    display: inline-block;    
+}
+.star{
+    
+}
